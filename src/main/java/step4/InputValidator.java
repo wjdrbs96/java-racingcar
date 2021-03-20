@@ -1,7 +1,7 @@
 package step4;
 
-public class Validator {
-    private Validator() {}
+public class InputValidator {
+    private InputValidator() {}
 
     public static void checkCarName(String carName) {
         // 일단은 글자 수로만 예외 처리
